@@ -10,7 +10,7 @@ print(Fore.MAGENTA+"""
   \__|_|  |_|___/\__\__,_|_| |_|\___\___/|_|  \__,_|
                                                                                                                                        
                                                                  
-BY: @tristan#1000 (Version 1.0)
+Coded By Tristan (Version 1.0)
 """)
 
 print(Fore.YELLOW+"""
