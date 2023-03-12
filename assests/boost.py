@@ -48,7 +48,7 @@ class Nitro:
             print(sex.text)
         if len(self.sub_ids) == 0:
             return self._extracted_from_hasNitro_7('Token has no nitro, removing.')
-        log(f"{colorama.Fore.GREEN}Token has nitro.")
+        log(f"{colorama.Fore.GREEN}Token has nitro!")
         return True
 
     # TODO Rename this here and in `hasNitro`
